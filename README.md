@@ -4,6 +4,8 @@
 
 Reproduire le jeu trouvable [ici](https://github.com/Flore-Melies/TwinStickShooter/releases).
 
+Le pack d'asset est disponible [ici](https://www.kenney.nl/assets/topdown-shooter).
+
 ## Pré-requis
 
 Il est impératif d'utiliser les paquets suivants dans votre projet :

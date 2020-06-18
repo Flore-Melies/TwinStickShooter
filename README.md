@@ -5,6 +5,7 @@
 Reproduire le jeu trouvable [ici](https://github.com/Flore-Melies/TwinStickShooter/releases).
 
 Le pack d'asset est disponible [ici](https://www.kenney.nl/assets/topdown-shooter).
+Le pixel per unit de reference du pack d'asset est de 64.
 
 ## Pré-requis
 
